@@ -39,7 +39,7 @@
     "proj_cate": ".module-info-tag-link,2&&Text",
     "proj_year": ".module-info-tag-link&&Text",
     "proj_area": ".module-info-tag-link,1&&Text",
-    "proj_actor": ".module-info-item:contains(主演)&&Text!主演：",
+    "proj_actor": ".module-info-item:contains(主演：)&&Text!主演：",
     "proj_plot": ".module-info-item&&p&&Text",
     "tab_arr_rule": "body&&.tab-item",
     "tab_title": "span&&Text",
