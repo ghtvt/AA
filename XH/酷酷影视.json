@@ -23,7 +23,7 @@
     "search_url": "https://www.kukuysw.com/vod-search-wd-{wd}.html",
     "sea_PtBody": "wd={wd}&search=",
     "search_mode": "1",
-    "sea_arr_rule": "body&&.searchlist",
+    "sea_arr_rule": ".searchlist&&.link",
     "sea_is_jsoup": "1",
     "sea_pic": "img&&data-original",
     "sea_title": "a&&title",
