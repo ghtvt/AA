@@ -53,6 +53,6 @@
     "epiurl_suffix": "",
     "Anal_MacPlayer": "0",
     "ManualSniffer": "0",
-    "VideoFormat": ".mp4#.m3u8#.flv",
+    "VideoFormat": ".m3u8#.mp4#.flv",
     "VideoFilter": ".html#=http"
 }
