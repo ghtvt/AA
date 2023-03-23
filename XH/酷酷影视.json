@@ -11,7 +11,7 @@
     "class_value": "1&2&3&4",
     "filterdata": {},
     "cat_mode": "1",
-    "cat_arr_rule": "body&&.link",
+    "cat_arr_rule": ".channel&&.link",
     "cat_is_jsoup": "1",
     "cat_title": "a&&title",
     "cat_url": "a&&href",
