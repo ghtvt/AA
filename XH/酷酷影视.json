@@ -23,7 +23,7 @@
     "fsort_name": "时间&人气&评分",
     "fsort_value": "time&hits&score",
     "cat_mode": "1",
-    "cat_arr_rule": "body&&.link",
+    "cat_arr_rule": ".channel&&.link",
     "cat_is_jsoup": "1",
     "cat_title": "a&&title",
     "cat_url": "a&&href",
