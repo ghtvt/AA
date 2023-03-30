@@ -53,7 +53,7 @@
     "proj_area": "",
     "proj_actor": ".stui-content__detail&&p,5&&Text!主演：",
     "proj_plot": ".stui-content__detail&&.detail-content&&Text",
-    "tab_arr_rule": ".nav&&li",
+    "tab_arr_rule": ".play-tab&&li",
     "tab_title": "a&&Text",
     "list_arr_rule": "body&&.stui-content__playlist",
     "epi_arr_rule": "li",
