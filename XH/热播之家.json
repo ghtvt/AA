@@ -48,7 +48,7 @@
     "play_suffix": "#isVideo=true#",
     "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
     "proj_is_jsoup": "1",
-    "proj_cate": ".stui-content__detail&&p&&Text!类型：",
+    "proj_cate": ".stui-content__detail&&p,1&&Text!类型：",
     "proj_year": "",
     "proj_area": "",
     "proj_actor": ".stui-content__detail&&p,6&&Text!主演：",
