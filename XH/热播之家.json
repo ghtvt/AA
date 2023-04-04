@@ -51,7 +51,7 @@
     "proj_cate": ".stui-content__detail&&p&&Text!类型：",
     "proj_year": "",
     "proj_area": "",
-    "proj_actor": ".stui-content__detail&&p,5&&Text!主演：",
+    "proj_actor": ".stui-content__detail&&p,6&&Text!主演：",
     "proj_plot": ".stui-content__detail&&.detail-content&&Text",
     "tab_arr_rule": ".stui-vodlist__head&&.nav&&li",
     "tab_title": "a&&Text",
