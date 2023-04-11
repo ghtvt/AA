@@ -49,8 +49,8 @@
     "play_suffix": "#isVideo=true#",
     "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
     
-    "proj_actor": "主演：&&</p>",
-    "proj_plot": "<p>&&</p>",
+    "proj_actor": "class=\"mb-2\">主演：&&</p>",
+    "proj_plot": "class=\"mv_card_box\">&&</p>",
     
     "tab_YN_twice": "0",
     "tab_twice_pre": "",
