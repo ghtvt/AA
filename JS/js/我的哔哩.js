@@ -1,26 +1,3 @@
-/* 直播弹幕 -> vod_area:'bilidanmu'
-目前只有皮皮虾大佬的DMBox, 支持弹幕
-DMBox下载:https://t.me/pipixiawerun
-设置 > 窗口预览 > 开启
-*/
-
-/* Cookie设置
-Cookie改为预设获取蜂蜜大佬Github的
-https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt
-
-Cookie获取方法
-https://github.com/UndCover/PyramidStore/blob/main/list.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9
-
-Cookie设置方法1: DR-PY 后台管理界面
-CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
-
-Cookie设置方法2: 手动替换Cookie
-底下代码 headers的
-"Cookie":"$bili_cookie"
-手动替换为
-"Cookie":"将获取的Cookie黏贴在这"
-*/
-
 var rule = {
     title:'我的哔哩',
     host:'https://api.bilibili.com',
@@ -106,8 +83,8 @@ var rule = {
     headers:{
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
-        // "Cookie":"$bili_cookie"
-        "Cookie":"https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt"
+        //"Cookie":"$bili_cookie"
+        "Cookie":"DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
     },
     timeout:5000,
     limit:8,
