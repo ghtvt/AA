@@ -24,7 +24,7 @@ var rule = {
     headers:{
         'User-Agent':'MOBILE_UA'
     },
-    timeout:5000,
+    timeout:5000,    
     play_parse:true,
     lazy:'',
     limit:6,
