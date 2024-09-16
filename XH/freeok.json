@@ -29,7 +29,7 @@
     "分类片单副标题": ".module-item-note&&Text",
     "分类片单链接加前缀": "https://www.freeok.vip",
     "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$PC_UA",
+    "搜索请求头参数": "User-Agent$MOBILE_UA#Referer$https://www.freeok.pro/#accept$text/html",//应该是请求头要referer参数
     "搜索链接": "https://www.freeok.vip/index.php/ajax/suggest?mid=1&wd={wd}",
     "POST请求数据": "0",
     "搜索截取模式": "0",
