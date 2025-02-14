@@ -42,7 +42,7 @@
     "proj_actor": "主演：</em>&&</li>",
     "proj_plot": "简介：&&</div>",
     "tab_arr_rule": "#tag&&.swiper-slide",
-    "tab_title": "a&&Text[排序:超高清]",
+    "tab_title": "a&&Text[排序:超高清,奇,腾,芒,优]",
     "list_arr_rule": "body&&.playlist-notfull",
     "epi_arr_rule": "li",
     "epi_is_jsoup": "1",
