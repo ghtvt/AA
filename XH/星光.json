@@ -20,7 +20,7 @@
     "cat_prefix": "https://v.xsszy.com",
     "cat_suffix": "",
     "SHeaders": "User-Agent$MOBILE_UA",
-    "search_url": "https://cn.bing.com/search?q={wd}+'详情介绍'+site:v.xsszy.com&qs=ds&form=QBRE",
+    "search_url": "https://cn.bing.com/search?q={wd}+'v.xsszy.com'+site:v.xsszy.com&qs=ds&form=QBRE&pc=EMMX01",
     "sea_PtBody": "",
     "search_mode": "1",
     "sea_arr_rule": "body&&.b_algoheader",
