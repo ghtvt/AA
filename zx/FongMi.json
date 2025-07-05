@@ -55,7 +55,7 @@
         "siteUrl": "http://127.0.0.1:9999",
         "count": 4,
         "channelUsername": "xiangxiunb,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "filter": "./json/douban.json"
       }
     },
@@ -67,7 +67,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -79,7 +79,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "share": "./json/网盘集合.json"
       }
     },
@@ -93,7 +93,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://www.qwnull.com",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -113,7 +113,7 @@
 //      "searchable": 1,
 //      "changeable": 0,
 //      "ext": {
-//        "commonConfig": "./json/peizhi.json",
+//        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
 //        "siteUrl": "https://revohd.com/",
 //        "filter": "./json/wogg.json"
 //      }
@@ -126,7 +126,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "http://149.88.87.18:6688/",
         "filter": "./json/wogg.json"
       }
@@ -139,7 +139,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "http://1.95.79.193/",
         "filter": "./json/wogg.json"
       }
@@ -152,7 +152,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "https://erxiaofn.click/",
         "filter": "./json/wogg.json"
       }
@@ -165,7 +165,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "https://www.milvdou.fun/",
         "filter": "./json/wogg.json"
       }
@@ -178,7 +178,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "http://tv.yydsys.top/",
         "filter": "./json/wogg.json"
       }
@@ -191,7 +191,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "https://www.goimg.asia/",
         "filter": "./json/wogg.json"
       }
@@ -204,7 +204,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "http://127.0.0.1:9966/api/proxy/http://123.666291.xyz/",
         "filter": "./json/wogg.json"
       }
@@ -217,7 +217,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "siteUrl": "http://woggpan.xxooo.cf/",
         "filter": "./json/wogg.json"
       }
@@ -232,7 +232,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://star.banye.tech:7086/",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -247,7 +247,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json",
         "json": "./json/youtube.json",
         "cookie": ""
       }
@@ -303,7 +303,7 @@
       "ext": {
         "count": 4,
         "channelUsername": "xiangxiunb,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -316,7 +316,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://www.91panta.cn/",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -329,7 +329,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://www.leijing1.com/",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
 
@@ -343,7 +343,7 @@
       "switchable": 0,
       "ext": {
         "cookie": "",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -354,7 +354,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -365,7 +365,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
     {
@@ -386,7 +386,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "https://gt.ghtvt.dpdns.org/https://raw.githubusercontent.com/ghtvt/AA/master/zx/json/peizhi.json"
       }
     },
 
